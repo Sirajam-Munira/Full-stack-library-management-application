@@ -1,0 +1,47 @@
+.bbook-card {
+    border: none;
+    margin: 10px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    transition: transform 0.2s;
+    width: 800px; 
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.bbook-card img {
+    height: 100px;
+    width: 80px;
+    border-radius: 15px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}
+
+.bbook-card h2 {
+    font-size: 1.2rem;
+    padding-top: 5px;
+}
+
+.bbook-card p {
+    margin: 1px 0;
+}
+
+.bbook-card button {
+    text-decoration: none;
+    background-color: #199459;
+    color: white;
+    padding: 7px 10px;
+    border-radius: 8px;
+    border-width: 0px;
+    margin: 1px 0;
+}
+
+.bbook-card button:hover {
+    background-color: #074527;
+    transform: scale(1.05);
+}

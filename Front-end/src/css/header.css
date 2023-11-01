@@ -1,0 +1,62 @@
+/* Header container styles */
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+}
+
+/* Left-aligned navigation links styles */
+.left-links {
+  display: flex;
+  align-items: center;
+}
+
+.left-links a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px;
+  font-size: 16px;
+  transition: color 0.2s;
+}
+
+.left-links a:hover {
+  color: #ffd700;
+}
+
+/* Right-aligned buttons styles */
+.right-links {
+  display: flex;
+  align-items: center;
+}
+
+.right-links button {
+  background-color: #199459;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  margin: 0;
+  /* margin-left: 20px; */
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.right-links button:hover {
+  background-color: #074527;
+}
+
+/* Style for Login and Register buttons */
+.right-links a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px;
+  font-size: 16px;
+  transition: color 0.2s;
+}
+
+.right-links a:hover {
+  color: #ffd700;
+}

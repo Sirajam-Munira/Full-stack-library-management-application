@@ -1,0 +1,64 @@
+/* Styling for the registration form */
+.form-container {
+    width: 100%;
+    max-width: 500px;
+    margin: 2cm auto;
+    padding: 30px 60px 60px 50px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  h4 {
+    margin: 0;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 1rem;
+    background-color: #199459;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  
+  button:hover {
+    background-color: #074527;
+  }
+  
+  .error-message {
+    color: #ff0000;
+    font-size: 14px;
+    margin-top: 5px;
+  }
+  
+  .success-message {
+    color: #008000;
+    font-size: 14px;
+    margin-top: 5px;
+  }
+  
+  .loading-message {
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 18px;
+    color: #199459;
+  }
+  

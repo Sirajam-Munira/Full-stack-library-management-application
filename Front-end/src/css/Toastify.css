@@ -1,0 +1,23 @@
+/* Toastify.css */
+.toastify-container {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 9999;
+  }
+  
+  .toastify {
+    background: #333;
+    color: #fff;
+    border-radius: 4px;
+    padding: 12px 20px;
+  }
+  
+  .toastify-success {
+    background: #28a745;
+  }
+  
+  .toastify-error {
+    background: #dc3545;
+  }
+  

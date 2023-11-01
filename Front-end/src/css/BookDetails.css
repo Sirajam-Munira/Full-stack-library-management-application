@@ -1,0 +1,125 @@
+/* BookDetails.css */
+
+.book-details {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    padding-top: 60px;
+    transition: all 0.3s ease; /* Add a smooth transition effect */
+  }
+  
+  .book-image {
+    width: 300px;
+    height: 450px;
+    margin-right: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Add a subtle shadow */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Add transition for hover effect */
+  }
+  
+  .book-image:hover {
+    transform: scale(1.01); /* Enlarge the image on hover */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3); /* Increase shadow on hover */
+  }
+  
+  .book-info {
+    flex: 1;
+    text-align: left;
+    font-family: 'Roboto', sans-serif; /* Use the Roboto font family */
+    padding: 30px;
+  }
+  
+  h2 {
+    font-size: 30px;
+    margin: 0;
+  }
+  
+  p {
+    font-size: 18px;
+    margin: 8px 0;
+  }
+
+  .book-description {
+    text-align: justify;
+    font-size: 20px;
+    color: #333;
+    margin: 20px 0;
+    max-width: 500px;
+  }
+  
+  .availability-text {
+    font-size: 20px;
+    margin-top: 10px;
+    color: rgb(0, 0, 0);
+  }
+  
+  .buttons {
+    display: flex;
+    align-items: center;
+  }
+  
+  .borrow-button,
+  .reserve-button {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease; /* Add button hover effect */
+  }
+
+  .borrow-button {
+    background-color: #66e86a; /* Change color on hover */
+  }
+
+  .reserve-button {
+    background-color: #ff8c62; /* Change color on hover */
+  }
+  
+  .borrow-button:hover {
+    background-color: #4CAF50; /* Change color on hover */
+    transform: scale(1.05); /* Scale up on hover */
+  }
+  
+  .reserve-button:hover {
+    background-color: #FF4500; /* Change color on hover */
+    transform: scale(1.05); /* Scale up on hover */
+  }
+
+  .review-button {
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: #007bff; /* Set your preferred color */
+    color: #fff;
+    margin-right: 10px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  
+    /* Add a hover effect */
+    &:hover {
+      background-color: #0056b3; /* Darken the color on hover */
+      transform: scale(1.05);
+    }
+  }
+  
+  .back-link {
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #545454;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease; /* Add link hover effect */
+  }
+  
+  .back-link:hover {
+    background-color: #333; /* Darken the background on hover */
+    transform: scale(1.05); /* Scale up on hover */
+  }
+  

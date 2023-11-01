@@ -1,0 +1,37 @@
+.row {
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    margin: 30px;
+    margin-left: 80px;
+    align-items: center; /* Vertically center the content */
+}
+
+.column1 {
+    width: 30%;
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.column2 {
+    width: 70%;
+    padding: 20px;
+    text-align: center;
+}
+
+.animated-image {
+    max-width: 80%; /* Ensure the image doesn't overflow its container */
+    animation: moveAnimation 2s infinite alternate;
+}
+
+@keyframes moveAnimation {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(10px);
+    }
+}
