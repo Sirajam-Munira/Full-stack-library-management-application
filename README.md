@@ -8,7 +8,7 @@ The Online Book Library Application is a full-stack web application designed to 
 
 ### **Role-based Backend including Authentication and Authorization:**
 - Spring Security for role-based authentication distinguishing between "ADMIN" and "CUSTOMER" roles.
-- Activated API for interaction with database
+- Activated API for interaction with the database
 
 ### **Database Management:**
 - MySQL database for efficient storage and retrieval of user and book data.
@@ -28,19 +28,19 @@ The Online Book Library Application is a full-stack web application designed to 
 
 ## Output
 
-- **Landing Page:** ![Landing Page](https://github.com/munira-bjit/full-stack-online-library-management-application/blob/main/Front-end%20outlook/landingPage.JPG)
-- **Registration Page:** ![Registration Page](https://github.com/munira-bjit/full-stack-online-library-management-application/blob/main/Front-end%20outlook/registerPage.JPG)
-- **Login Page:** ![Login Page](https://github.com/munira-bjit/full-stack-online-library-management-application/blob/main/Front-end%20outlook/loginPage.JPG)
-- **User Home Page:** ![User Home Page](https://github.com/munira-bjit/full-stack-online-library-management-application/blob/main/Front-end%20outlook/userHomePage.JPG)
-- **User Book List Page:** ![User Book List Page](https://github.com/munira-bjit/full-stack-online-library-management-application/blob/main/Front-end%20outlook/userBookListPage.JPG)
-- **User Borrowed Book Page:** ![User Borrowed Book Page](https://github.com/munira-bjit/full-stack-online-library-management-application/blob/main/Front-end%20outlook/userBorrowedBookPage.JPG)
-- **User Reserved Book Page:** ![User Reserved Book Page](https://github.com/munira-bjit/full-stack-online-library-management-application/blob/main/Front-end%20outlook/userReservedBookPage.JPG)
-- **User History Page:** ![User History Page](https://github.com/munira-bjit/full-stack-online-library-management-application/blob/main/Front-end%20outlook/userHistoryPage.JPG)
-- **User Book Details Page:** ![User Book Details Page](https://github.com/munira-bjit/full-stack-online-library-management-application/blob/main/Front-end%20outlook/userBookDetailsPage.JPG)
-- **User Book Details Page:** ![User Book Details Page](https://github.com/munira-bjit/full-stack-online-library-management-application/blob/main/Front-end%20outlook/userBookDetailsPage2.JPG)
-- **User Book Review Page:** ![User Book Review Page](https://github.com/munira-bjit/full-stack-online-library-management-application/blob/main/Front-end%20outlook/userBookReviewPage1.JPG)
-![User Book Review Page](https://github.com/munira-bjit/full-stack-online-library-management-application/blob/main/Front-end%20outlook/userBookReviewPage2.JPG)
-- **Admin Home Page:** ![Admin Home Page](https://github.com/munira-bjit/full-stack-online-library-management-application/blob/main/Front-end%20outlook/adminHomePage.JPG)
-- **Admin Book Management Page:** ![Admin Book Management Page](https://github.com/munira-bjit/full-stack-online-library-management-application/blob/main/Front-end%20outlook/adminBookManagePage.JPG)
-- **Admin User Management Page:** ![Admin User Management Page](https://github.com/munira-bjit/full-stack-online-library-management-application/blob/main/Front-end%20outlook/adminUserManagePage.JPG)
+- **Landing Page:** ![Landing Page](https://github.com/Sirajam-Munira/Full-stack-library-management-application/blob/main/Front-end%20outlook/landingPage.JPG)
+- **Registration Page:** ![Registration Page](https://github.com/Sirajam-Munira/full-stack-online-library-management-application/blob/main/Front-end%20outlook/registerPage.JPG)
+- **Login Page:** ![Login Page](https://github.com/Sirajam-Munira/full-stack-online-library-management-application/blob/main/Front-end%20outlook/loginPage.JPG)
+- **User Home Page:** ![User Home Page](https://github.com/Sirajam-Munira/full-stack-online-library-management-application/blob/main/Front-end%20outlook/userHomePage.JPG)
+- **User Book List Page:** ![User Book List Page](https://github.com/Sirajam-Munira/full-stack-online-library-management-application/blob/main/Front-end%20outlook/userBookListPage.JPG)
+- **User Borrowed Book Page:** ![User Borrowed Book Page](https://github.com/Sirajam-Munira/full-stack-online-library-management-application/blob/main/Front-end%20outlook/userBorrowedBookPage.JPG)
+- **User Reserved Book Page:** ![User Reserved Book Page](https://github.com/Sirajam-Munira/full-stack-online-library-management-application/blob/main/Front-end%20outlook/userReservedBookPage.JPG)
+- **User History Page:** ![User History Page](https://github.com/Sirajam-Munira/full-stack-online-library-management-application/blob/main/Front-end%20outlook/userHistoryPage.JPG)
+- **User Book Details Page:** ![User Book Details Page](https://github.com/Sirajam-Munira/full-stack-online-library-management-application/blob/main/Front-end%20outlook/userBookDetailsPage.JPG)
+- **User Book Details Page:** ![User Book Details Page](https://github.com/Sirajam-Munira/full-stack-online-library-management-application/blob/main/Front-end%20outlook/userBookDetailsPage2.JPG)
+- **User Book Review Page:** ![User Book Review Page](https://github.com/Sirajam-Munira/full-stack-online-library-management-application/blob/main/Front-end%20outlook/userBookReviewPage1.JPG)
+![User Book Review Page](https://github.com/Sirajam-Munira/full-stack-online-library-management-application/blob/main/Front-end%20outlook/userBookReviewPage2.JPG)
+- **Admin Home Page:** ![Admin Home Page](https://github.com/Sirajam-Munira/full-stack-online-library-management-application/blob/main/Front-end%20outlook/adminHomePage.JPG)
+- **Admin Book Management Page:** ![Admin Book Management Page](https://github.com/Sirajam-Munira/full-stack-online-library-management-application/blob/main/Front-end%20outlook/adminBookManagePage.JPG)
+- **Admin User Management Page:** ![Admin User Management Page](https://github.com/Sirajam-Munira/full-stack-online-library-management-application/blob/main/Front-end%20outlook/adminUserManagePage.JPG)
 
